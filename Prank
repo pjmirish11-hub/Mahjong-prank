@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>How to Play Mahjong - Video Tutorial</title>
+    <!-- Open Graph metadata for iMessage preview -->
+    <meta property="og:title" content="How to Play Mahjong - Video Tutorial">
+    <meta property="og:description" content="Learn the basics of Mahjong with this quick and easy video guide!">
+    <meta property="og:image" content="https://img.youtube.com/vi/4y_l7iT2GuQ/hqdefault.jpg">
+    <meta property="og:type" content="video.other">
+    <meta property="og:url" content="https://pbs.twimg.com/media/BG48ENgCEAAIDl9.jpg">
+</head>
+<body>
+    <h1>How to Play Mahjong</h1>
+    <p>Click below to watch the Mahjong tutorial video!</p>
+    <a href="https://pbs.twimg.com/media/BG48ENgCEAAIDl9.jpg">
+        <img src="https://img.youtube.com/vi/4y_l7iT2GuQ/hqdefault.jpg" alt="Mahjong Tutorial Video" style="width:300px;">
+    </a>
+</body>
+</html>
